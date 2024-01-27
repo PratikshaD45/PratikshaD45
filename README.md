@@ -8,18 +8,17 @@
 - 🔭 I’m currently working on **Machine Learning**
 - 🌱 I’m currently making **Fullstack Webpage**
 - 👯 I’m open to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **Competitive Programming**
-- 💬 Ask me about **Nextjs, Vercel, React, Node, Express, MongoDB, MySQL, Firebase, HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python**
+- 💬 Ask me about **Data Structure and Algorithm, Java, C, C++, Python, MongoDB, MySQL, HTML, CSS, JavaScript**
 - 📝 [Resume](#)
 - 📝 [Personal Website](#)
 <div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="PratikshaD45" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/darekarpratiksha/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="PratikshaD45" height="30" width="30" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="prathamesh_chougale_17" height="30" width="30" /></a>
-<a href="#" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="prathameshchoug1" height="30" width="30" />
-<a href="#" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile.svg" alt="prathameshchoug1" height="30" width="30" />
+<a href="https://www.hackerrank.com/profile/pratikshadareka1" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="pratikshadareka1" height="30" width="30" />
+<a href="https://leetcode.com/pratiksha_164/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="pratiksha_164/" height="30" width="30" />
 <div>
 <br>
 <h1 align="center">Languages and Tools:</h1>
@@ -27,7 +26,7 @@
 <tr>
 <td>Language</td>
 <td> <a href="https://github.com/PratikshaD45" >
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
 </a> 
 </td>
 </tr>
@@ -35,7 +34,7 @@
 <tr>
 <td>Development</td>
 <td> <a href="https://github.com/PratikshaD45" >
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,pug,handlebars" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript" />
   </a>
 </td>
 </tr>
