@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/darekarpratiksha/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="PratikshaD45" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pratikshady3vb" target="blank"><img align="center" src="[https://img.icons8.com/color/48/000000/instagram-new--v2.png](https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda)" alt="pratikshady3vb" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pratikshady3vb" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="pratikshady3vb" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/profile/pratikshadareka1" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="pratikshadareka1" height="30" width="30" />
 <a href="https://leetcode.com/pratiksha_164/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="pratiksha_164/" height="30" width="30" />
 <div>
