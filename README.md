@@ -1,4 +1,4 @@
-# Hii there 👋,I'm Pratiksha Darekar a Full Stack Developer and a Competitive Programmer
+# Hii there 👋,I'm Pratiksha Darekar a Competitive Programmer
 
   <img align="right" alt="GIF" src="pratiksha.gif" width="1000" height="380" />
 <p align="center">
@@ -6,9 +6,8 @@
 </p>
 
 - 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently making **Fullstack Webpage**
 - 👯 I’m open to collaborate on **Open Source Projects**
-- 💬 Ask me about **Data Structure and Algorithm, Java, C, C++, Python, MongoDB, MySQL, HTML, CSS, JavaScript**
+- 💬 Ask me about **Data Structure and Algorithm, Java, C, C++, Python, MySQL, HTML, CSS**
 - 📝 [Resume](#)
 - 📝 [Personal Website](#)
 <div>
@@ -34,56 +33,12 @@
 <tr>
 <td>Development</td>
 <td> <a href="https://github.com/PratikshaD45" >
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </td>
 </tr>
 
-<tr>
-<td>CSS Framework</td>
-<td> <a href="https://github.com/PratikshaD45" >
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-  </a>
- </td>
-</tr>
 
-<tr>
-<td>UI</td>
-<td> <a href="https://github.com/PratikshaD45" >
-    <img height="50rem" src=chakra.jpg/>
-    <img height="50rem" src=daisy.png/>
-    <img height="50rem" src=shadn.png />
-
-  </a>
- </td>
-</tr>
-
-<tr>
-<td>Frontend Framework</td>
-<td> <a href="https://github.com/PratikshaD45" >
-    <img src="https://skillicons.dev/icons?i=react,vite,next" />
-  </a>
- </td>
-</tr>
-
-<tr>
-<td>Backend Framework</td>
-<td> <a href="https://github.com/PratikshaD45" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    <img height="50rem" src = './zod.svg'/>
-    <img height="50rem" src = './flask.png'/>
-   </a>
-</td>
-</tr>
-<tr>
-<td>Backend Adapter</td>
-<td> <a href="https://github.com/PratikshaD45" >
-    <img src="https://skillicons.dev/icons?i=prisma" />
-    <img height="50rem" src = './nextauth.png'/>
-    <img height="50rem" src = "./resend.png"/>
-   </a>
-</td>
-</tr>
 
 <tr>
 <td>Database</td>
@@ -92,14 +47,7 @@
    </a>
 </td>
 </tr>
-<tr>
-<td>CMS</td>
-<td> <a href="https://github.com/PratikshaD45" >
-<img src="./sanity.png" height="50rem"/>
 
-   </a>
-</td>
-</tr>
 
 
 
