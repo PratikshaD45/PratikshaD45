@@ -1,4 +1,4 @@
-# Hii there 👋,I'm Pratiksha Darekar a Competitive Programmer
+# Hii👋,I'm Pratiksha Darekar a Competitive Programmer
 
   <img align="right" alt="GIF" src="pratiksha.gif" width="1000" height="380" />
 <p align="center">
