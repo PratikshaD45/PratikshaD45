@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Machine Learning**
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 💬 Ask me about **Data Structure and Algorithm, Java, C, C++, Python, MySQL, HTML, CSS**
-- 📝 <a href="https://drive.google.com/file/d/1tuZslbqVNJB5iNha6dnaH5RzUd9W9-fJ/view"/>Resume</a>
+- 📝 <a href=""/>Resume</a>
 - 📝 [Personal Website](#)
 <div>
 
