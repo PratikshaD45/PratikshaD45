@@ -9,7 +9,7 @@
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 💬 Ask me about **Data Structure and Algorithm, Java, C, C++, Python, MySQL, HTML, CSS**
 - 📝 <a href=""/>Resume</a>
-- 📝 [Personal Website](#)
+- 📝 [Personal Website](https://pratikshad45.github.io/)
 <div>
 
 <h3 align="center">Connect with me:</h3>
